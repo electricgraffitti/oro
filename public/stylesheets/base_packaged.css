@@ -1,0 +1,29 @@
+
+#accordionHandle2 {background: #fff url('../images/haccordion_bars3.png') 0px -2000px no-repeat}
+#accordionHandle2:hover {background: #fff url('../images/haccordion_bars3.png') 0px -2500px no-repeat}
+#accordionHandle2.active {background: #fff url('../images/haccordion_bars3.png') 0px -3000px no-repeat}
+.handleOver{ }
+.handleSelected{ }
+.active {background: #fff}
+/*********************************************/ /******************SUBBOXES*******************/ #sub_boxes {color: #fff; /*background: #191819;*/ background: #000; text-align: left}
+#sub_box1 {margin-left: 10px}
+.sub_box {min-height: 200px; margin-left: 10px}
+.cover_flow_sub_box {margin-left: 10px; width: 440px; min-height: 200px}
+.inner_sub_box {margin-left: 10px; width: 200px; min-height: 200px}
+.inner_sub_box p {position: relative; margin: 5px}
+.sub_box_header {margin: 10px}
+.sub_box_wrap {width: 200px; margin-left: 32px; float: left; display: inline}
+.sub_box a.social_icon {display: block; text-indent: -1000em}
+.sub_box p {color: #fff; width: 185px}
+.sub_box, .sub_box2 {min-height: 240px; float:left}
+.go_link {margin-top: 10px; margin-right: 32px}
+/*********************************************/ /******************VIDEOS*********************/ #home_player {width: 340px; height: 280px}
+/*********************************************/ /******************FORMS**********************/ .form_section {margin-bottom: 20px}
+input[type="select"] {width: 100px}
+/*********************************************/ /******************BUTTONS********************/ .btn {background: #666 url('../images/healthcare_fraud_btn_black.png') bottom left repeat-x; padding: 5px; color: #fff; border: 1px solid #666; text-decoration: none; cursor: pointer; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; margin: 10px 10px 10px 0px; min-height: 18px; float: left}
+.btn:hover {background: #67ab89}
+.search_btn {text-indent: -1000em; width: 25px; height: 30px; background: url('../images/search_icon_black.png') no-repeat; border: none; cursor: pointer; font-size: 0px; display: inline-block}
+.buttons_right {float: right; text-align: right; width: 200px}
+/*********************************************/ /******************FOOTER********************/ #ft {position: relative; float: left; /*background: #fff url('../images/banners/health_care_insight_banner2.png') no-repeat;*/ background: #000; min-height: 220px}
+#footer_logo {position: absolute; bottom: 10px; left: 10px; background: #000 url('../images/hci_footer_logo.png') no-repeat; width: 350px; height: 60px}
+.video_holder {min-height: 200px}
