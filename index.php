@@ -27,9 +27,12 @@
 
 
 	</div> <!-- end of wrapper -->
-	
-	 
 	<?php require_once("views/javascripts.php"); ?>
-
+  <script type="text/javascript" charset="utf-8">
+    $(document).ready(function() {
+      banner.setupPagingLinks();
+      banner.initBanners();
+    });
+  </script>
 </body>
 </html>
