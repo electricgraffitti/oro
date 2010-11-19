@@ -13,10 +13,9 @@
 		<div id="banner">
 		  <?php require_once("views/banners/index_banner.php");?>
 		</div>
-      <div id="main_content">
-        <div id="content_btm"></div>
-				<?php require_once("views/content/index_content.php"); ?>
-      </div> <!-- end of main_content -->
+    <div id="main_content">
+			<?php require_once("views/content/index_content.php"); ?>
+    </div> <!-- end of main_content -->
 
     <div id="ft" class="grid_12 alpha omega">
       <?php require_once("views/footer.php"); ?>
@@ -28,9 +27,12 @@
 
 
 	</div> <!-- end of wrapper -->
-	
-	 
 	<?php require_once("views/javascripts.php"); ?>
-
+  <script type="text/javascript" charset="utf-8">
+    $(document).ready(function() {
+      banner.setupPagingLinks();
+      banner.initBanners();
+    });
+  </script>
 </body>
 </html>

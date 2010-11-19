@@ -7,11 +7,13 @@
             <a href="#"><img src="public/images/earrings_banner.png" alt="" /></a>
         </div>
     </div>
-    <div class="paging">
+    <div id="paging">
+      <div id="paging_links">
         <a href="#" rel="1">1</a>
         <a href="#" rel="2">2</a>
         <a href="#" rel="3">3</a>
         <a href="#" rel="4">4</a>
+      </div>
     </div>
 </div>
 
