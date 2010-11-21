@@ -1,6 +1,6 @@
 <div id="content">
 	<div id="contact_heading">
-		<h2>Contact Britta for a Consultation Today!</h2>
+		<h2>Contact team at Oro &#38; Jewelers Today!</h2>
 	</div>
 <?php
 if(isset($sent) && $sent == true)
@@ -37,8 +37,11 @@ echo "";
     <label>Select One:</label><br /> 
       	<select name="select">
         	<option>General</option>
-        	<option>Residential Project</option>
-        	<option>Commercial Project</option>
+        	<option>Watch Repair</option>
+        	<option>Jewelry Repair</option>
+        	<option>Jewelry Design</option>
+        	<option>Jewelry</option>
+        	<option>Gold Buying</option>
       	</select>
 			</div>
 			<div class="error"></div>

@@ -11,10 +11,10 @@
 	  </div> <!-- end of hd -->
 	
 		<div id="banner">
-		  <?php require_once("views/banners/about_banner.php");?>
+		  <?php require_once("views/banners/our_jewelry_banner.php");?>
 		</div>
     <div id="main_content">
-			<?php require_once("views/content/about_content.php"); ?>
+			<?php require_once("views/content/our_jewelry_content.php"); ?>
     </div> <!-- end of main_content -->
 
     <div id="ft" class="grid_12 alpha omega">

@@ -39,7 +39,7 @@ var banner = {
                  $active = $('#paging_links a:first'); //go back to first
              }
              rotate(); //Trigger the paging and slider function
-         }, 7000); //Timer speed in milliseconds (7 seconds)
+         }, 5000); //Timer speed in milliseconds (7 seconds)
      };
      
      rotateSwitch(); //Run function on launch

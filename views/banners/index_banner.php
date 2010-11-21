@@ -1,7 +1,7 @@
 <div class="main_view">
   <div class="window">
     <div class="image_reel">
-      <a href="#">
+      <a href="watch_repair.php">
         <div class="banner_wrap">
           <img src="public/images/banners/watch_repair.jpg" alt="" />
           <div class="banner_content">
@@ -12,7 +12,7 @@
           </div>
         </div>
       </a>
-      <a href="#">
+      <a href="jewelry_repair.php">
         <div class="banner_wrap">
           <img src="public/images/banners/jewelry_repair.jpg" alt="" />
           <div class="banner_content">
@@ -23,7 +23,7 @@
           </div>
         </div>
       </a>
-      <a href="#">
+      <a href="jewelry_design.php">
         <div class="banner_wrap">
           <img src="public/images/banners/jewelry_design.jpg" alt="" />
           <div class="banner_content">
@@ -34,7 +34,7 @@
           </div>
         </div>
       </a>
-      <a href="#">
+      <a href="our_jewelry.php">
         <div class="banner_wrap">
           <img src="public/images/banners/our_jewelry.jpg" alt="" />
           <div class="banner_content">
@@ -45,7 +45,7 @@
           </div>
         </div>
       </a>
-      <a href="#">
+      <a href="gold_buying.php">
         <div class="banner_wrap">
           <img src="public/images/banners/gold_buying.jpg" alt="" />
           <div class="banner_content">

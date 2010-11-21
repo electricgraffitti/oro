@@ -5,21 +5,17 @@
 </head>
 <body class="yui-skin-sam">
   <!-- Application Layout -->
-  <div id="wrapper" class="container_12">
-	
-	  <div id="hd" class='grid_12 alpha omega'>
+  <div id="wrapper">
+	  <div id="hd">
       <?php require_once("views/header.php"); ?>
 	  </div> <!-- end of hd -->
 	
-	
-      <div id="main_content" class="grid_12 alpha omega">
-        <div id="content_btm"></div>
-				<div id="banner">
-					<img src="public/images/index_banner.jpg">
-				</div>
-        <?php require_once("views/sidebar/main_sidebar.php"); ?>
-				<?php require_once("views/content/contact_content.php"); ?>
-      </div> <!-- end of main_content -->
+		<div id="banner">
+		  <?php require_once("views/banners/contact_banner.php");?>
+		</div>
+    <div id="main_content">
+			<?php require_once("views/content/contact_content.php"); ?>
+    </div> <!-- end of main_content -->
 
     <div id="ft" class="grid_12 alpha omega">
       <?php require_once("views/footer.php"); ?>
@@ -31,9 +27,12 @@
 
 
 	</div> <!-- end of wrapper -->
-	
-	 
 	<?php require_once("views/javascripts.php"); ?>
-
+  <script type="text/javascript" charset="utf-8">
+    $(document).ready(function() {
+      banner.setupPagingLinks();
+      banner.initBanners();
+    });
+  </script>
 </body>
 </html>
