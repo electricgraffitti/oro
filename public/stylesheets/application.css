@@ -282,11 +282,17 @@ a:visited {
 /* =========================================================== */
 /* = FORMS                                                   = */
 /* =========================================================== */
+#contact_form {
+  position: relative;
+  float: left;
+  margin-left: 20px;
+  width: 960px;
+  background: transparent url(../images/oro_form_image.png) 535px top no-repeat;
+}
 #content form {
 	position: relative;
 	float: left;
-	width: 500px;
-	margin-left: 60px;
+	width: 550px;
 }
 #contact_heading {
 	width: 558px;
@@ -299,57 +305,32 @@ a:visited {
 	height: 30px;
 }
 #content label {
-	color:#5a2a00;
 	float:left;
-	margin-left:35px;
-	margin-top:10px;
 	position:relative;
 	text-align:left;
-	width:100%;
-	font-size: 16px;
+	color:#666666;
+  text-shadow:0 1px 0 #FFFFFF;
+  width: 250px;
 }
 #content input[type="text"] {
-	border:1px solid #000;
+	border:1px solid #ccc;
 	float:left;
 	height:25px;
-	margin-left:30px;
-	margin-top:5px;
 	position:relative;
 	text-align:left;
 	padding-left:3px;
+	width: 247px;
 }
 #content textarea {
-	border:1px solid #000;
-	float:left;
-	margin-left:30px;
-	margin-top:5px;
-	position:relative;
-	text-align:left;
+	border:1px solid #ccc;
 }
 #content div.form_field {
-	width: 100%;
-	height: 35px;
+	width: 250px;
 	text-align: left;
 	position: relative;
 	float: left;
-}
-#content div.form_field_text {
-	float:left;
-	height:120px;
-	position:relative;
-	text-align:left;
-	width:100%;
-}
-#content div.form_field_select {
-	width: 100%;
-	height: 55px;
-	text-align: left;
-	position: relative;
-	float: left;
-}
-#content div.form_field_button {
-	height:80px;
-	width:100%;
+	margin-bottom: 10px;
+	margin-right: 10px;
 }
 #content div.error {
 	position: relative;
@@ -361,42 +342,30 @@ a:visited {
 	width:440px;
 }
 #content select {
-	position: relative;
-	float: left;
-	height:25px;
-	margin-left:30px;
-	margin-top:5px;
+  float:left;
+  height:29px;
+  position:relative;
+  width:250px;
 }
 #content textarea {
 	position: relative;
 	float: left;
-	margin-left:30px;
-	margin-top:5px;
 }
 #content .btn {
-	background:#fff;
-	border:1px solid #000;
-	display:block;
-	float:left;
-	height:30px;
-	margin-left:30px;
-	margin-top:25px;
-	position:relative;
-	text-align:center;
-	width:70px;
+  background:none repeat scroll 0 0 #CCCCCC;
+  border:1px solid #AAAAAA;
+  color:#333333;
+  display:block;
+  float:left;
+  height:30px;
+  position:relative;
+  text-align:center;
+  width:70px;
 }
 #content .btn:hover {
-	background: #000;
-	border:1px solid #937D6A;
-	float:left;
-	height:30px;
-	margin-left:30px;
-	margin-top:25px;
-	position:relative;
-	text-align:center;
-	width:70px;
-	display:block;
-	color: #fff;
+  color: #fff;
+  background:none repeat scroll 0 0 #777;
+  border:1px solid #fff;
 }
 #left {
 	position: relative;
@@ -459,7 +428,7 @@ a:visited {
 	position: relative;
 	float: left;
 	height: 15px;
-	width: 90px;
+	width: 105px;
 	background: none;
 	border-right: 1px solid #aaa;
 }
@@ -551,6 +520,12 @@ a:visited {
 }
 .banner_content h2.gold_buying {
 	background: url(../images/banners/gold_buying_banner_header.png) 0px 0px no-repeat;
+}
+.banner_content h2.contact_us {
+	background: url(../images/banners/contact_banner_header.jpg) 0px 0px no-repeat;
+}
+.banner_content h2.about_us {
+	background: url(../images/banners/about_banner_header.jpg) 0px 0px no-repeat;
 }
 .banner_content p {
   color: #333;
