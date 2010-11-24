@@ -246,7 +246,7 @@ if ( $validationFailed === false ) {
   
   # Redirect user to success page
 
-header("Location: http://www.orojewelers.com/thank_you.php");
+header("Location: http://www.orojewelers.com/index.php");
 
 }
 
