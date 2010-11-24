@@ -60,9 +60,12 @@
           <img src="public/images/banners/gold_buying.jpg" alt="" />
           <div class="banner_content">
             <h2 class="banner_header gold_buying">Gold Buying</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            </p>
+            <ul class="banner_list">
+    					<li>Old Jewelry</li>
+    					<li>Trade Ins</li>
+    					<li>Watches</li>
+    					<li>Diamonds &#38; Gemstones</li>
+    				</ul>
           </div>
         </div>
       </a>

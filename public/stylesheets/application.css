@@ -584,6 +584,9 @@ a:visited {
 .banner_content h2.about_us {
 	background: url(../images/banners/about_banner_header.jpg) -51px 0px no-repeat;
 }
+.banner_content h2.thank_you {
+	background: url(../images/banners/thank_you_banner_header.jpg) -7px 0px no-repeat;
+}
 .banner_content p {
 	color:#333333;
 	padding:10px 0 20px;
