@@ -1,11 +1,24 @@
 <div id="content"> 
-	<!-- <h2 id="index_header">Welcome to Oro &#38; Jewelers</h2> -->
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat arcu tortor. Phasellus ultrices sagittis felis ac imperdiet. Aenean non justo turpis. Nullam eu dolor nibh! Nunc ac fringilla quam. Etiam sagittis tincidunt lectus quis faucibus. Nunc malesuada; velit vitae rutrum porttitor, leo ligula lacinia leo, non consectetur massa ligula ac metus. Fusce enim lorem, blandit.
-	</p>
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat arcu tortor. Phasellus ultrices sagittis felis ac imperdiet. Aenean non justo turpis. Nullam eu dolor nibh! Nunc ac fringilla quam. Etiam sagittis tincidunt lectus quis faucibus. Nunc malesuada; velit vitae rutrum porttitor, leo ligula lacinia leo, non consectetur.
-	</p>
+	<h3 class="content">Cleaning &#38; Polishing - </h3>
+		<p>
+			Keep that jewelry looking new with periodic cleaning and polishing. We use state of the art techniques when cleaning, polishing and handling your jewelry.  The finished product is astounding, and we can show you the right cleaning products to use at home to help keep your jewelry looking new day in and day out.
+		</p>
+	<h3 class="content">Stone Replacement - </h3>
+		<p>
+			If you have a stone and would like it set into an existing ring, or have a ring that the stone has become loose, we can take care of this for you.  We do all types of settings from channel, multi-stone, tensions, pave', and even solitaires.
+		</p>
+	<h3 class="content">Custom Designing - </h3>
+		<p>
+			We can design and build any item of jewelry that you have in mind.  Custom rings, bracelets, charms, and even earrings.  Let us know what you envision and leave the work to us.  We also stock many original one-of-a-kind items in our showroom.
+		</p>
+	<h3 class="content">Bracelet &#38; Necklace Repair - </h3>
+		<p>
+			If you have a bracelet or necklace that has a broken or missing clasp, or that is broken, we can repair these items and make them look like they did when you first put them on.
+		</p>	
+	<h3 class="content">Ring Sizing &#38; Resizing - </h3>
+		<p>
+			Did you get a new ring and it just doesn't fit just right? Do you have an existing special ring that doesn't fit anymore?  Bring it to us and let us make the perfect fit no matter what type of ring you have.	
+		</p>
 	<div id="bottom_container">
     <div class="bottom_container bottom_left">
       <img class="header_img" src="public/images/watch_repair.png">
