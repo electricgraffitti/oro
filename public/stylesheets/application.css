@@ -45,6 +45,7 @@ a:visited {
   -moz-box-shadow: 0px 0px 38px #30201c;
 	-webkit-box-shadow: 0px 0px 38px #30201c;
 	box-shadow: 0px 0px 38px #30201c;
+	text-align: left;
 }
 #hd {
   position: relative;
@@ -533,7 +534,6 @@ a:visited {
   padding:30px;
   position:absolute;
   right:35px;
-  text-align:center;
   top:20px;
   width:300px;
 }
@@ -544,7 +544,7 @@ a:visited {
 	text-indent: -9999em;
 }
 .banner_content h2.watch_repair {
-	background: url(../images/banners/watch_repair_banner_header.png) 0px 0px no-repeat;
+	background: url(../images/banners/watch_repair_banner_header.png) -34px 0px no-repeat;
 }
 .banner_content h2.jewelry_repair {
 	background: url(../images/banners/jewelry_repair_banner_header.png) 0px 0px no-repeat;
@@ -562,11 +562,11 @@ a:visited {
 	background: url(../images/banners/contact_banner_header.jpg) 0px 0px no-repeat;
 }
 .banner_content h2.about_us {
-	background: url(../images/banners/about_banner_header.jpg) 0px 0px no-repeat;
+	background: url(../images/banners/about_banner_header.jpg) -51px 0px no-repeat;
 }
 .banner_content p {
-  color: #333;
-  padding: 20px 0px;
+	color:#333333;
+	padding:10px 0 20px;
 }
 /****************************************************************************************************************************/
 /****************************************************************************************************** PAGINATION **********/
@@ -608,7 +608,6 @@ a:visited {
 	text-align:center;
 	text-shadow:0 1px 2px #FFFFFF;
 	width:200px;
-	margin-left: 40px;
 	-moz-box-shadow: 0px 1px 2px #bbb;
 	-webkit-box-shadow: 0px 1px 2px #bbb;
 	box-shadow: 0px 1px 2px #bbb;
