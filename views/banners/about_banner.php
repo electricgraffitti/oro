@@ -5,6 +5,9 @@
         <p>
           Locally owned and operated, Oro &#38; Jewelers is Boulder City's most trusted name when it comes to purchasing fine jewelry &#38; jewelry repairs. 
         </p>
+        <div class="cta">
+          <a href="/contact.php" title="contact Oro &amp; Jewelers Today">Contact Us</a>
+        </div>
     </div>
 </div>
 

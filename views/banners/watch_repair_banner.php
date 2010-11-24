@@ -9,5 +9,8 @@
 					<li>Stem &#38; Crown Repairs</li>
 					<li>Wristband Repair &#38; Replacment</li>
 				</ul>
+				<div class="cta">
+          <a href="/contact.php" title="contact Oro &amp; Jewelers Today">Contact Us</a>
+        </div>  
     </div>
 </div>

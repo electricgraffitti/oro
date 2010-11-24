@@ -20,20 +20,26 @@
 			Did the pin fall out of your watch or is your wristband looking worn? Let us repair your existing band or replace with a new one and give your "old" watch a "new" look.	
 		</p>
 	<div id="bottom_container">
-    <div class="bottom_container bottom_left">
-      <img src="public/images/watch_repair.png">
-      <h2 class="sub_header_left">Watch Repair</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor; nulla ac vulputate lacinia, lorem justo iaculis lacus, in interdum ipsum nisl in neque. Etiam. <a href="watch_repair.php"> learn more...</a></p>
+    <div class="bottom_container bottom_left light">
+      <img class="header_img" src="public/images/headers/sb_lt_cleaning.png">
+      <h2 class="sub_header_left">Battery Replacement</h2>
+      <div class="sb_lt_inner_img">
+        <img src="public/images/subbox_images/battery_replacement.png">
+      </div>
     </div>
-    <div class="bottom_container bottom_center">
-      <img src="public/images/jewelry_repair.png">
+    <div class="bottom_container bottom_center light">
+      <img class="header_img" src="public/images/headers/sb_lt_battery_replacement.png">
       <h2 class="sub_header_center">Jewelry Repair</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor; nulla ac vulputate lacinia, lorem justo iaculis lacus, in interdum ipsum nisl in neque. Etiam. <a href="jewelry_repair.php"> learn more...</a></p>
+      <div class="sb_lt_inner_img">
+        <img src="public/images/subbox_images/repair_2.png">
+      </div>
     </div>
-    <div class="bottom_container bottom_right">
-      <img src="public/images/our_jewelry.png">
-      <h2 class="sub_header_right">Our Jewlery</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor; nulla ac vulputate lacinia, lorem justo iaculis lacus, in interdum ipsum nisl in neque. Etiam. <a href="jewelry.php"> learn more...</a></p>
+    <div class="bottom_container bottom_right light">
+      <img class="header_img" src="public/images/headers/sb_lt_stem_repair.png">
+      <h2 class="sub_header_right">Crown and Stem Repair</h2>
+      <div class="sb_lt_inner_img">
+        <img src="public/images/subbox_images/repair_stem.png">
+      </div>
     </div>
   </div>
 </div><!--end content-->

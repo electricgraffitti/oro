@@ -11,16 +11,16 @@
 					<a href="watch_repair.php">Watch Repair</a>
 				</li>
 				<li>
-					<a href="jewelry Repair.php">Jewelry Repair</a>
+					<a href="jewelry_repair.php">Jewelry Repair</a>
 				</li>
 				<li>
 					<a href="jewelry_design.php">Jewelry Design</a>
 				</li>
 				<li>
-					<a href="jewelry.php">Our Jewelry</a>
+					<a href="our_jewelry.php">Our Jewelry</a>
 				</li>
 				<li>
-					<a href="gold.php">Gold Buying</a>
+					<a href="gold_buying.php">Gold Buying</a>
 				</li>
 				<li class="small_footer_link1">
 					<a href="contact.php">Contact</a>
