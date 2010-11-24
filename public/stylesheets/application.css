@@ -142,6 +142,16 @@ a:visited {
 	text-align:left;
 	margin-bottom: 20px;
 }
+#banner .banner_content ul.banner_list {
+	font-size:17px;
+	margin-left:50px;
+	text-align:left;
+	margin-bottom: 20px;
+}
+#banner .banner_content ul.banner_list li {
+	list-style: circle;
+	margin-bottom: 3px;
+}
 #banner ul.banner_list li {
 	list-style: circle;
 	margin-bottom: 3px;
