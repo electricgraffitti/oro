@@ -346,6 +346,7 @@ a:visited {
   height:29px;
   position:relative;
   width:250px;
+  padding-top: 2px;
 }
 #content textarea {
 	position: relative;
