@@ -8,5 +8,8 @@
 			<li>Bracelet &#38; Necklace Repairs</li>
 			<li>Ring Sizing &#38; Resizing</li>
 		</ul>
+		<div class="cta">
+      <a href="/contact.php" title="contact Oro &amp; Jewelers Today">Contact Us</a>
+    </div>
   </div>
 </div>

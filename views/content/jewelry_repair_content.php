@@ -1,4 +1,5 @@
-<div id="content"> 
+<div id="content">
+  <h3 class="content">Cleaning &#38; Polishing - </h3>
   	<p>
 			Keep that jewelry looking new with periodic cleaning and polishing. We use state of the art techniques when cleaning, polishing and handling your jewelry.  The finished product is astounding, and we can show you the right cleaning products to use at home to help keep your jewelry looking new day in and day out.
 		</p>
