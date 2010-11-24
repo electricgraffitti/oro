@@ -7,10 +7,6 @@
 		<p>
 			If you have a stone and would like it set into an existing ring, or have a ring that the stone has become loose, we can take care of this for you.  We do all types of settings from channel, multi-stone, tensions, pave', and even solitaires.
 		</p>
-	<h3 class="content">Custom Designing - </h3>
-		<p>
-			We can design and build any item of jewelry that you have in mind.  Custom rings, bracelets, charms, and even earrings.  Let us know what you envision and leave the work to us.  We also stock many original one-of-a-kind items in our showroom.
-		</p>
 	<h3 class="content">Bracelet &#38; Necklace Repair - </h3>
 		<p>
 			If you have a bracelet or necklace that has a broken or missing clasp, or that is broken, we can repair these items and make them look like they did when you first put them on.
