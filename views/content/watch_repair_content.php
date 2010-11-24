@@ -13,7 +13,7 @@
 		</p>
 	<h3 class="content">Stem &#38; Crown Repair - </h3>
 		<p>
-			Watch won't wind?  Winder came out?  Don't throw it away, et the professionals at Oro &#38; Jewelers repair the internal components and bring your watch back to new again.
+			Watch won't wind?  Stem come out?  Don't throw it away, et the professionals at Oro &#38; Jewelers repair the internal components and bring your watch back to new again.
 		</p>	
 	<h3 class="content">Wristband Repair &#38; Replacement - </h3>
 		<p>
