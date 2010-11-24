@@ -1,7 +1,5 @@
 <div id="content">
-  <!-- <div id="contact_heading">
-    <h2>Contact team at Oro &#38; Jewelers Today!</h2>
-  </div> -->
+
 <?php if(isset($sent) && $sent == true) { echo ""; } else { ?>
   
   <?php if(isset($warning)){echo "$message";} ?>
