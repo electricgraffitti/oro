@@ -232,7 +232,7 @@ if ( $validationFailed === false ) {
   . "Comments : $FTGcomments\n"
   . "\n"
   . "";
-  $emailTo = 'Larry Finn larry@cube2media.com';
+  $emailTo = 'Oro Jewelers larry@cube2media.com';
    
   $emailFrom = FilterCChars("Oro Jewelers Contact Form");
    
