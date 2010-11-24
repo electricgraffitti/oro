@@ -1,11 +1,8 @@
 <div id="content"> 
-	<!-- <h2 id="index_header">Welcome to Oro &#38; Jewelers</h2> -->
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat arcu tortor. Phasellus ultrices sagittis felis ac imperdiet. Aenean non justo turpis. Nullam eu dolor nibh! Nunc ac fringilla quam. Etiam sagittis tincidunt lectus quis faucibus. Nunc malesuada; velit vitae rutrum porttitor, leo ligula lacinia leo, non consectetur massa ligula ac metus. Fusce enim lorem, blandit.
-	</p>
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat arcu tortor. Phasellus ultrices sagittis felis ac imperdiet. Aenean non justo turpis. Nullam eu dolor nibh! Nunc ac fringilla quam. Etiam sagittis tincidunt lectus quis faucibus. Nunc malesuada; velit vitae rutrum porttitor, leo ligula lacinia leo, non consectetur.
-	</p>
+	<h3 class="content">Custom Jewelry Design &#38; Modification - </h3>
+		<p>
+			Do you have a unique piece of jewelry you would like to make a reality? We can design any type of jewelry you can imagine.  From custom engagement rings, wedding ring sets, anniversary rings, bracelets, necklaces and more.  We start with your vision, stone selection, type of precious metal used, and take all of this and create to your exact specifications your special jewelry item. Come and see us today and let us show you how to make that special piece of jewelry a reality.  
+		</p>
 	<div id="bottom_container">
     <div class="bottom_container bottom_left">
       <img class="header_img" src="public/images/watch_repair.png">
