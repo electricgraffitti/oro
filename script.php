@@ -232,9 +232,9 @@ if ( $validationFailed === false ) {
   . "Comments : $FTGcomments\n"
   . "\n"
   . "";
-  $emailTo = 'Larry Jo <cristinalebreton@yahoo.com>';
+  $emailTo = 'Larry Finn larry@cube2media.com';
    
-  $emailFrom = FilterCChars("Stage Left Request");
+  $emailFrom = FilterCChars("Oro Jewelers Contact Form");
    
   $emailHeader = "From: $emailFrom\n"
    . "MIME-Version: 1.0\n"
@@ -246,7 +246,7 @@ if ( $validationFailed === false ) {
   
   # Redirect user to success page
 
-header("Location: http://www.stageleftredesign.com/thank_you.php");
+header("Location: http://www.orojewelers.com/thank_you.php");
 
 }
 
