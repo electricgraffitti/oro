@@ -193,7 +193,7 @@ a:visited {
 #content p {
 	color:#5A2A00;
 	float:left;
-	font-size:13px;
+	font-size:14px;
 	margin-bottom:20px;
 	text-align:justify;
 	width:920px;
@@ -299,15 +299,6 @@ a:visited {
 	width: 292px;
 	height: 154px;
 	padding: 4px;
-}
-#bottom_container .bottom_left img {
-
-}
-#bottom_container .bottom_center img {
-
-}
-#bottom_container .bottom_right img{
-
 }
 #bottom_container h2 {
   background: #3C2722;
@@ -563,16 +554,16 @@ a:visited {
 	background: url(../images/banners/jewelry_repair_banner_header.png) -13px 0px no-repeat;
 }
 .banner_content h2.jewelry_design {
-	background: url(../images/banners/jewelry_design_banner_header.png) 0px 0px no-repeat;
+	background: url(../images/banners/jewelry_design_banner_header.png) -13px 0px no-repeat;
 }
 .banner_content h2.our_jewelry {
-	background: url(../images/banners/our_jewelry_banner_header.png) 0px 0px no-repeat;
+	background: url(../images/banners/our_jewelry_banner_header.png) -57px 0px no-repeat;
 }
 .banner_content h2.gold_buying {
-	background: url(../images/banners/gold_buying_banner_header.png) 0px 0px no-repeat;
+	background: url(../images/banners/gold_buying_banner_header.png) -35px 0px no-repeat;
 }
 .banner_content h2.contact_us {
-	background: url(../images/banners/contact_banner_header.jpg) 0px 0px no-repeat;
+	background: url(../images/banners/contact_banner_header.jpg) -48px 0px no-repeat;
 }
 .banner_content h2.about_us {
 	background: url(../images/banners/about_banner_header.jpg) -51px 0px no-repeat;

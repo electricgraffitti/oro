@@ -8,6 +8,9 @@
 			<li>Custom Design Necklaces</li>
 			<li>Custom Modifications</li>
 		</ul>
+		<div class="cta">
+      <a href="/contact.php" title="contact Oro &amp; Jewelers Today">Contact Us</a>
+    </div>
   </div>
 </div>
 
