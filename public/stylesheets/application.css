@@ -135,6 +135,14 @@ a:visited {
   position:relative;
   border-bottom: 1px solid #fff;
 }
+#banner ul.banner_list {
+	font-size:18px;
+	margin-left:100px;
+	text-align:left;
+}
+#banner ul.banner_list li {
+	list-style: circle;
+}
 #content {
   border-bottom:1px solid #CCCCCC;
   float:left;
@@ -145,6 +153,13 @@ a:visited {
 }
 #content h2, #content h3 {
 	float:left;
+}
+#content h3.content {
+	font-size:16px;
+	margin-right:5px;
+	margin-top:-5px;
+	width: 920px;
+	text-align: left;
 }
 #content h2#index_header {
   width: 440px;
@@ -162,12 +177,12 @@ a:visited {
 	width:940px;
 }
 #content p {
-  color:#5A2A00;
-  float:left;
-  font-size:13px;
-  margin-bottom:10px;
-  text-align:justify;
-  width:963px;
+	color:#5A2A00;
+	float:left;
+	font-size:13px;
+	margin-bottom:20px;
+	text-align:justify;
+	width:920px;
 }
 #content p.testimonial {
 	-moz-box-shadow:0 1px 2px #000000;

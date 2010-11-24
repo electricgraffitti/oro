@@ -3,7 +3,7 @@
     <div class="banner_content">
       <h2 class="banner_header about_us">About Us</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Locally owned and operated, Oro &#38; Jewelers is Boulder City's most trusted name when it comes to purchasing fine jewelry &#38; jewelry repairs. 
         </p>
     </div>
 </div>
