@@ -4,9 +4,6 @@
 				<li class="small_footer_link">
 					<a href="index.php">Home</a>
 				</li>
-				<li class="small_footer_link">
-					<a href="about.php">About Us</a>
-				</li>
 				<li>
 					<a href="watch_repair.php">Watch Repair</a>
 				</li>
@@ -21,6 +18,9 @@
 				</li>
 				<li>
 					<a href="gold_buying.php">Gold Buying</a>
+				</li>
+				<li class="small_footer_link">
+					<a href="about.php">About Us</a>
 				</li>
 				<li class="small_footer_link1">
 					<a href="contact.php">Contact</a>
