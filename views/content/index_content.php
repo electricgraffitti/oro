@@ -20,7 +20,7 @@
     <div class="bottom_container bottom_right">
       <img class="header_img" src="public/images/our_jewelry.png">
       <h2 class="sub_header_right">Our Jewlery</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor; nulla ac vulputate lacinia, lorem justo iaculis lacus, in interdum ipsum nisl in neque. Etiam. <a href="jewelry.php"> learn more...</a></p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque porttitor; nulla ac vulputate lacinia, lorem justo iaculis lacus, in interdum ipsum nisl in neque. Etiam. <a href="our_jewelry.php"> learn more...</a></p>
     </div>
   </div>
 </div><!--end content-->
