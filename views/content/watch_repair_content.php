@@ -24,14 +24,14 @@
       <img class="header_img" src="public/images/headers/sb_lt_cleaning.png">
       <h2 class="sub_header_left">Battery Replacement</h2>
       <div class="sb_lt_inner_img">
-        <img src="public/images/subbox_images/battery_replacement.png">
+        <img src="public/images/subbox_images/cleaning.png">
       </div>
     </div>
     <div class="bottom_container bottom_center light">
       <img class="header_img" src="public/images/headers/sb_lt_battery_replacement.png">
       <h2 class="sub_header_center">Jewelry Repair</h2>
       <div class="sb_lt_inner_img">
-        <img src="public/images/subbox_images/repair_2.png">
+        <img src="public/images/subbox_images/battery_replacement.png">
       </div>
     </div>
     <div class="bottom_container bottom_right light">
