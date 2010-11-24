@@ -469,6 +469,7 @@ a:visited {
 	width: 105px;
 	background: none;
 	border-right: 1px solid #aaa;
+	text-align: center;
 }
 .footer_nav ul li.small_footer_link {
 	position: relative;
