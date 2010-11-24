@@ -232,6 +232,7 @@ if ( $validationFailed === false ) {
   . "Comments : $FTGcomments\n"
   . "\n"
   . "";
+  
   $emailTo = 'Oro Jewelers orojewelers@gmail.com';
    
   $emailFrom = FilterCChars("Oro Jewelers Contact Form");
