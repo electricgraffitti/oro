@@ -154,9 +154,25 @@ a:visited {
 	margin-bottom: 3px;
 	color:#333333;
 }
+#banner ul li.contact {
+	margin-bottom: 5px;
+}
+#banner ul li.contact_link a {
+	color:#5a2a00;
+	text-decoration: underline;
+	margin-top: -15px;
+}
+#banner ul li.contact_link a:hover {
+	color: #333;
+	text-decoration: none;
+}
 #banner ul.banner_list li {
 	list-style: circle;
 	margin-bottom: 3px;
+}
+#banner ul h3.contact_info {
+	font-size: 14px;
+	font-weight: bold;
 }
 #content {
   border-bottom:1px solid #CCCCCC;

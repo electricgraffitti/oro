@@ -1,10 +1,6 @@
 <div id="content"> 
-	<!-- <h2 id="index_header">Welcome to Oro &#38; Jewelers</h2> -->
 	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat arcu tortor. Phasellus ultrices sagittis felis ac imperdiet. Aenean non justo turpis. Nullam eu dolor nibh! Nunc ac fringilla quam. Etiam sagittis tincidunt lectus quis faucibus. Nunc malesuada; velit vitae rutrum porttitor, leo ligula lacinia leo, non consectetur massa ligula ac metus. Fusce enim lorem, blandit.
-	</p>
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat arcu tortor. Phasellus ultrices sagittis felis ac imperdiet. Aenean non justo turpis. Nullam eu dolor nibh! Nunc ac fringilla quam. Etiam sagittis tincidunt lectus quis faucibus. Nunc malesuada; velit vitae rutrum porttitor, leo ligula lacinia leo, non consectetur.
+		Do you have old jewelry that you just don't wear or don't want anymore?  Bring in your old unwanted jewelry for top market value at Oro &#38; Jewelers today.  We buy Old watches, diamonds, gemstones, rings, dental metals, necklaces and more.  We purchase by weight and you can be guaranteed to get top dollar selling your jewelry to us or trading in for new. We have a large selection of all types of jewelry in our store to choose from or we can custom design a new piece for you too.
 	</p>
 	<div id="bottom_container">
     <div class="bottom_container bottom_left">
