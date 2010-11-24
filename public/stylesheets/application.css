@@ -84,7 +84,7 @@ a:visited {
   position:relative;
 }
 #main_nav ul li {
-	width: 125px;
+	width: 124px;
 	height: 40px;
 	position: relative;
 	float: left;
@@ -94,6 +94,7 @@ a:visited {
 }
 #main_nav ul li.no_border {
 	border: none;
+	border-left: 1px solid #efefef;
 }
 #main_nav ul li a {
 	display: block;
@@ -238,9 +239,9 @@ a:visited {
   height: 200px;
   position: relative;
   width: 300px;
-  -moz-border-radius: 5px;
+/*  -moz-border-radius: 5px;
 	-khtml-border-radius: 5px;
-	-webkit-border-radius: 5px;
+	-webkit-border-radius: 5px;*/
   -moz-box-shadow: 0px 1px 2px #000;
 	-webkit-box-shadow: 0px 1px 2px #000;
 	box-shadow: 0px 1px 2px #000;
@@ -249,26 +250,26 @@ a:visited {
   background: #fff;
   border: 1px solid #c4c5c4;
   color: #333;
-  float: left;
-  height: 200px;
-  position: relative;
-  width: 300px;
-  -moz-border-radius: 5px;
-	-khtml-border-radius: 5px;
-	-webkit-border-radius: 5px;
-  -moz-box-shadow: 0px 1px 2px #000;
-	-webkit-box-shadow: 0px 1px 2px #000;
-	box-shadow: 0px 1px 2px #000;
+  -moz-box-shadow: 0px 1px 2px #ccc;
+	-webkit-box-shadow: 0px 1px 2px #ccc;
+	box-shadow: 0px 1px 2px #ccc;
 }
 #bottom_container .bottom_container.bottom_center {
-  margin: 0px 25px;
+  margin: 0px 24px;
 }
-#bottom_container img {
+#bottom_container img.header_img {
   height: 85px;
   left: 0px;
   position: absolute;
   top: -37px;
   width: 309px;
+}
+.sb_lt_inner_img {
+	position: relative;
+	float: left;
+	width: 292px;
+	height: 154px;
+	padding: 4px;
 }
 #bottom_container .bottom_left img {
 
@@ -285,18 +286,22 @@ a:visited {
   margin: 0;
   padding-top: 5px;
   width: 100%;
-	-moz-border-radius: 3px;
+/*	-moz-border-radius: 3px;
 	-khtml-border-radius: 3px;
-	-webkit-border-radius: 3px;
+	-webkit-border-radius: 3px;*/
 	-moz-box-shadow: 0px 1px 2px #000;
 	-webkit-box-shadow: 0px 1px 2px #000;
 	box-shadow: 0px 1px 2px #000;
 	text-indent: -9999em;
 }
-
-/* =========================================================== */
-/* = FORMS                                                   = */
-/* =========================================================== */
+#bottom_container .light h2 {
+  background: #ddd;
+	-moz-box-shadow: 0px 1px 2px #bbb;
+	-webkit-box-shadow: 0px 1px 2px #bbb;
+	box-shadow: 0px 1px 2px #bbb;
+}
+/****************************************************************************************************************************/
+/*********************************************************************************************************** FORMS **********/
 #contact_form {
   position: relative;
   float: left;
@@ -481,8 +486,8 @@ a:visited {
 .clear {
 	clear: both;
 }
-/********************************************************************************/
-/************************************************************* BANNERS **********/
+/****************************************************************************************************************************/
+/********************************************************************************************************* BANNERS **********/
 /*--Main Container--*/
 .main_view {
 	float: left;
@@ -547,7 +552,8 @@ a:visited {
   color: #333;
   padding: 20px 0px;
 }
-/*--Paging Styles--*/
+/****************************************************************************************************************************/
+/****************************************************************************************************** PAGINATION **********/
 #paging {
 	position: relative;
 	width: 100%;
@@ -575,3 +581,37 @@ a:visited {
   background: url(../images/bullet_nav.png) -12px 0px no-repeat;
 }
 .paging a:hover {font-weight: bold;}
+/****************************************************************************************************************************/
+/********************************************************************************************************* BUTTONS **********/
+.cta {
+	background:none repeat scroll 0 0 #DDDDDD;
+	border:1px solid #999999;
+	color:#333333;
+	height:45px;
+	position:relative;
+	text-align:center;
+	text-shadow:0 1px 2px #FFFFFF;
+	width:300px;
+	-moz-box-shadow: 0px 1px 2px #bbb;
+	-webkit-box-shadow: 0px 1px 2px #bbb;
+	box-shadow: 0px 1px 2px #bbb;
+}
+.cta:hover {
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	background:none repeat scroll 0 0 #dbdbdb;
+	border:1px solid #777777;
+}
+.cta a {
+	color:#333333;
+	display:block;
+	font-size:24px;
+	padding:10px;
+	position:relative;
+}
+.cta:hover a {
+	color: #fff;
+	text-decoration: none;
+	text-shadow: 0px 1px 1px #333;
+}
