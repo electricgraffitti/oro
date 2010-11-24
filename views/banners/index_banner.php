@@ -21,9 +21,12 @@
           <img src="public/images/banners/jewelry_repair.jpg" alt="" />
           <div class="banner_content">
             <h2 class="banner_header jewelry_repair">Jewelry Repair</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            </p>
+            <ul class="banner_list">
+							<li>Cleaning &#38; Polishing</li>
+							<li>Stone Replacement</li>
+							<li>Bracelet &#38; Necklace Repairs</li>
+							<li>Ring Sizing &#38; Resizing</li>
+						</ul>
           </div>
         </div>
       </a>
@@ -32,9 +35,12 @@
           <img src="public/images/banners/jewelry_design.jpg" alt="" />
           <div class="banner_content">
             <h2 class="banner_header jewelry_design">Jewelry Design</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            </p>
+            <ul class="banner_list">
+							<li>Custom Design Rings</li>
+							<li>Custom Design Bracelets</li>
+							<li>Custom Design Necklaces</li>
+							<li>Custom Modifications</li>
+						</ul>
           </div>
         </div>
       </a>
@@ -44,8 +50,8 @@
           <div class="banner_content">
             <h2 class="banner_header our_jewelry">Our Jewelry</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            </p>
+				      Oro &#38; Jewelers has every type of jewelry you can imagine.  We Sell all types of rings, bracelets, Necklaces, coins, indian jewelry and even one-of-a-kind custom jewelry in our store.  Stop by and see us today and let us help you pick out the perfect gift for the perfect occasion.  Take a look at some of our images below for some samples of the types of jewelry we have in our store.
+				    </p>
           </div>
         </div>
       </a>

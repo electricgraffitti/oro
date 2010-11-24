@@ -1,11 +1,4 @@
 <div id="content"> 
-	<!-- <h2 id="index_header">Welcome to Oro &#38; Jewelers</h2> -->
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat arcu tortor. Phasellus ultrices sagittis felis ac imperdiet. Aenean non justo turpis. Nullam eu dolor nibh! Nunc ac fringilla quam. Etiam sagittis tincidunt lectus quis faucibus. Nunc malesuada; velit vitae rutrum porttitor, leo ligula lacinia leo, non consectetur massa ligula ac metus. Fusce enim lorem, blandit.
-	</p>
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat arcu tortor. Phasellus ultrices sagittis felis ac imperdiet. Aenean non justo turpis. Nullam eu dolor nibh! Nunc ac fringilla quam. Etiam sagittis tincidunt lectus quis faucibus. Nunc malesuada; velit vitae rutrum porttitor, leo ligula lacinia leo, non consectetur.
-	</p>
 	<div id="bottom_container">
     <div class="bottom_container bottom_left">
       <img class="header_img" src="public/images/watch_repair.png">
