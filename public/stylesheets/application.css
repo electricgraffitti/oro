@@ -136,12 +136,14 @@ a:visited {
   border-bottom: 1px solid #fff;
 }
 #banner ul.banner_list {
-	font-size:18px;
-	margin-left:100px;
+	font-size:17px;
+	margin-left:50px;
 	text-align:left;
+	margin-bottom: 20px;
 }
 #banner ul.banner_list li {
 	list-style: circle;
+	margin-bottom: 3px;
 }
 #content {
   border-bottom:1px solid #CCCCCC;
@@ -157,7 +159,6 @@ a:visited {
 #content h3.content {
 	font-size:16px;
 	margin-right:5px;
-	margin-top:-5px;
 	width: 920px;
 	text-align: left;
 }
@@ -606,7 +607,8 @@ a:visited {
 	position:relative;
 	text-align:center;
 	text-shadow:0 1px 2px #FFFFFF;
-	width:300px;
+	width:200px;
+	margin-left: 40px;
 	-moz-box-shadow: 0px 1px 2px #bbb;
 	-webkit-box-shadow: 0px 1px 2px #bbb;
 	box-shadow: 0px 1px 2px #bbb;

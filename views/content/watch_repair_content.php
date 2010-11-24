@@ -21,7 +21,7 @@
 		</p>
 	<div id="bottom_container">
     <div class="bottom_container bottom_left light">
-      <img class="header_img" src="public/images/headers/sb_lt_battery_replacement.png">
+      <img class="header_img" src="public/images/headers/sb_lt_cleaning.png">
       <h2 class="sub_header_left">Battery Replacement</h2>
       <div class="sb_lt_inner_img">
         <img src="public/images/subbox_images/battery_replacement.png">
@@ -35,10 +35,10 @@
       </div>
     </div>
     <div class="bottom_container bottom_right light">
-      <img class="header_img" src="public/images/headers/sb_lt_battery_replacement.png">
-      <h2 class="sub_header_right">Our Jewlery</h2>
+      <img class="header_img" src="public/images/headers/sb_lt_stem_repair.png">
+      <h2 class="sub_header_right">Crown and Stem Repair</h2>
       <div class="sb_lt_inner_img">
-        <img src="public/images/subbox_images/repair_3.png">
+        <img src="public/images/subbox_images/repair_stem.png">
       </div>
     </div>
   </div>
