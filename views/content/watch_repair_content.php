@@ -1,7 +1,7 @@
 <div id="content"> 
 	<h3 class="content">Cleaning &#38; Inspection - </h3>
 		<p>
-			Don't let everyday life destroy your prized possession.  Let us inspect and clean your watch to keep it working it it's original condition.
+			Don't let everyday life destroy your prized possession.  Let us inspect and clean your watch to keep it working in it's original condition.
 		</p>
 	<h3 class="content">Battery Replacement - </h3>
 		<p>
@@ -11,14 +11,18 @@
 		<p>
 			If your watch has the appearance of wear and tear, a new crystal may be just what you are looking for to give your watch that showroom appearance.
 		</p>
-	<h3 class="content">Stem &#38; Crown Repair - </h3>
+	<h3 class="content">Stem &#38; Crown Repair &#38; Replacement - </h3>
 		<p>
-			Watch won't wind?  Stem come out?  Don't throw it away, et the professionals at Oro &#38; Jewelers repair the internal components and bring your watch back to new again.
+			Watch won't wind?  Stem come out?  Don't throw it away, let the professionals at Oro &#38; Jewelers repair the internal components and bring your watch back to new again. We have most necessary parts in stock for repairs.
 		</p>	
 	<h3 class="content">Wristband Repair &#38; Replacement - </h3>
 		<p>
 			Did the pin fall out of your watch or is your wristband looking worn? Let us repair your existing band or replace with a new one and give your "old" watch a "new" look.	
 		</p>
+		<h3 class="content">Overhaul Services - </h3>
+  		<p>
+  			We do complete watch overhauls too.  We work on all brands of watches, we use original parts and we have most necessary parts in our store.	
+  		</p>
 	<div id="bottom_container">
     <div class="bottom_container bottom_left light">
       <img class="header_img" src="public/images/headers/sb_lt_cleaning.png">
@@ -35,10 +39,10 @@
       </div>
     </div>
     <div class="bottom_container bottom_right light">
-      <img class="header_img" src="public/images/headers/sb_lt_stem_repair.png">
-      <h2 class="sub_header_right">Crown and Stem Repair</h2>
+      <img class="header_img" src="public/images/headers/sb_lt_overhaul.png">
+      <h2 class="sub_header_right">Overhaul Services</h2>
       <div class="sb_lt_inner_img">
-        <img src="public/images/subbox_images/repair_stem.png">
+        <img src="public/images/subbox_images/overhaul.png">
       </div>
     </div>
   </div>

@@ -5,7 +5,11 @@
 		</p>
 	<h3 class="content">Stone Replacement - </h3>
 		<p>
-			If you have a stone and would like it set into an existing ring, or have a ring that the stone has become loose, we can take care of this for you.  We do all types of settings from channel, multi-stone, tensions, pave', and even solitaires.
+			If you have a stone and would like it set into an existing ring, or have a ring that the stone has become loose, we can take care of this for you.  We do all types of settings from channel, multi-stone, tensions, pave', and even solitaires. We have a large assortment of gemstones in stock and findings in stock too.
+		</p>
+		<h3 class="content">Diamond Setting</h3>
+		<p>
+		  We Specialize in diamond setting, and can set your diamond while you are waiting and watching the process, in fact you keep your diamonds in your hands until we reach the point of actually setting the stone. 
 		</p>
 	<h3 class="content">Bracelet &#38; Necklace Repair - </h3>
 		<p>

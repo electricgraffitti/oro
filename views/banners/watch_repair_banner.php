@@ -1,5 +1,5 @@
 <div class="banner_wrap">
-  <img src="public/images/banners/watch_repair.jpg" alt="" />
+  <img src="public/images/banners/watch_repair1.jpg" alt="" />
     <div class="banner_content">
       <h2 class="banner_header watch_repair">Watch Repair</h2>
 				<ul class="banner_list">

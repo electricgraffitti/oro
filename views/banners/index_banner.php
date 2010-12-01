@@ -32,7 +32,7 @@
       </a>
       <a href="jewelry_design.php">
         <div class="banner_wrap">
-          <img src="public/images/banners/jewelry_design.jpg" alt="" />
+          <img src="public/images/banners/jewelry_design1.jpg" alt="" />
           <div class="banner_content">
             <h2 class="banner_header jewelry_design">Jewelry Design</h2>
             <ul class="banner_list">

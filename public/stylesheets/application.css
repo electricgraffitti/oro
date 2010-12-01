@@ -161,9 +161,29 @@ a:visited {
 #banner ul li.contact_us_link a {
 	color:#5a2a00;
 	text-decoration: underline;
+	width: 140px;
 }
-#banner ul li.contact_link a:hover {
-	color: #333;
+#banner ul li.contact_us_link a:hover {
+	color:#666;
+	text-decoration: none;
+	width: 140px;
+}
+#banner ul li.our_store_link a {
+	color:#5a2a00;
+	text-decoration: underline;
+	padding-top: 5px;
+	display: block;
+	width: 140px;
+}
+#banner ul li.our_store_link a {
+	color:#5a2a00;
+	text-decoration: underline;
+	padding-top: 5px;
+	display: block;
+	width: 140px;
+}
+#banner ul li.our_store_link a:hover {
+	color: #666;
 	text-decoration: none;
 }
 #banner ul.banner_list li {
@@ -335,6 +355,35 @@ a:visited {
 	-moz-box-shadow: 0px 1px 2px #bbb;
 	-webkit-box-shadow: 0px 1px 2px #bbb;
 	box-shadow: 0px 1px 2px #bbb;
+}
+
+#content h3.store_content {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  font-size: 18px;
+  font-weight: bold;
+}
+#content p.store {
+  margin-bottom: 50px;
+  margin-left: 40px;
+}
+#store_wrapper {
+  width: 960px;
+  text-align: center;
+}
+#store_wrapper img {
+  padding: 5px;
+  /*border: 1px solid #000;*/
+  border-top:4px solid #78593D;
+  border-left:4px solid #78593D;
+  border-right:4px solid #78593D;
+  border-bottom:4px solid #78593D;
+  -moz-box-shadow: 0px 0px 38px #30201c;
+	-webkit-box-shadow: 0px 0px 38px #30201c;
+	box-shadow: 0px 0px 38px #30201c;
+  margin-bottom: 40px;
+  background: #ccc;
 }
 /****************************************************************************************************************************/
 /*********************************************************************************************************** FORMS **********/

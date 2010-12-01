@@ -1,5 +1,5 @@
 <div class="banner_wrap">
-  <img src="public/images/banners/contact_banner.jpg" alt="" />
+  <img src="public/images/banners/contact_banner1.jpg" alt="" />
     <div class="banner_content">
       <h2 class="banner_header contact_us">Contact Us</h2>
         <ul>
@@ -11,6 +11,10 @@
 						Boulder City, NV.<br />
 						89005</li>
 					<li class="contact_us_link"><a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=501+Nevada+Highway,+Boulder+City,+NV&sll=37.0625,-95.677068&sspn=50.910968,95.976562&ie=UTF8&hq=&hnear=501+Nevada+Hwy,+Boulder+City,+Clark,+Nevada+89005&ll=35.977824,-114.835464&spn=0.003204,0.005858&t=h&z=18">Directions to our store</a></li>
+					<li class="our_store_link">
+					 <a href="store.php">View Our Store</a>
+					</li>
+					</ul>
 				
     </div>
 </div>

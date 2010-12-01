@@ -22,7 +22,7 @@
         <img class="header_img" src="public/images/headers/custom_gemstone.png">
         <h2 class="sub_header_right">Gemstone Rings</h2>
         <div class="sb_lt_inner_img">
-          <img src="public/images/subbox_images/custom_gemstones.png">
+          <img src="public/images/subbox_images/gemstones.png">
         </div>
       </div>
     </div>

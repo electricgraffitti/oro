@@ -47,7 +47,7 @@
   </div>
   <div id="bottom_container">
     <div class="bottom_container bottom_left light">
-      <img class="header_img" src="public/images/headers/new_watches.png">
+      <img class="header_img" src="public/images/headers/antique_watches.png">
       <h2 class="sub_header_left">New Watches</h2>
       <div class="sb_lt_inner_img">
         <img src="public/images/subbox_images/new_watches.png">
@@ -61,7 +61,7 @@
       </div>
     </div>
     <div class="bottom_container bottom_right light">
-      <img class="header_img" src="public/images/headers/antique_watches.png">
+      <img class="header_img" src="public/images/headers/new_watches.png">
       <h2 class="sub_header_right">Antique Watches</h2>
       <div class="sb_lt_inner_img">
         <img src="public/images/subbox_images/antique_watches.png">
