@@ -1,8 +1,9 @@
 <div id="content"> 
   <h3 class="store_content">Our Storefront in Boulder City</h3>
 	<p class="store">
-	We are located at 501 Nevada Highway on the corner of Avenue B.  Stop in and see us today and shop our large selection of jewelry and watches today!
+	We are located at 501 Nevada Highway on the corner of Avenue B.  Stop in and see us today and shop our large selection of jewelry and watches today!<br />We are open Monday through Friday from 9 a.m. to 5 p.m. and Saturday 10 a.m. to 2 p.m.
 	</p>
+
 	<div id="store_wrapper">
 	  <div id="store_top">
   	  <img class="top_image" src="public/images/top_image.jpg">

@@ -360,13 +360,14 @@ a:visited {
 #content h3.store_content {
   margin-top: 20px;
   margin-bottom: 20px;
-  margin-left: 40px;
+  margin-left: 75px;
   font-size: 18px;
   font-weight: bold;
 }
 #content p.store {
   margin-bottom: 50px;
   margin-left: 40px;
+	text-align: center;
 }
 #store_wrapper {
   width: 960px;
