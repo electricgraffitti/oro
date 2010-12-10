@@ -6,7 +6,7 @@
 	<p>
 		We have a full selection of all types of new and antique jewelry in our store.  We can also repair &#38; service all types of jewelry as well, and every piece of jewelry is treated with the utmost care and detailed craftsmanship. 
 	</p>
-	<p>Frank is a master watchmaker too.  Watch restoration and repairs are done in our store, we do not send your watch to a separate location for any reason. We carry antique watch parts in our store for such repairs.  We have all types of different batteries in stock for all types of watches too,  and can replace them while you wait.
+	<p>Francisco is a master watchmaker too.  Watch restoration and repairs are done in our store, we do not send your watch to a separate location for any reason. We carry antique watch parts in our store for such repairs.  We have all types of different batteries in stock for all types of watches too,  and can replace them while you wait.
 	</p>
 	<p>
 		Oro &#38; Jewelers is an independent business. We are not affiliated with any national brand or chain. We pride ourselves on our family owned and operated business and give you the personal one-on-one care you are looking for when purchasing that special jewelry item, or having repairs done while you wait.
@@ -24,7 +24,7 @@
     </div>
     <div class="bottom_container bottom_right">
       <img class="header_img" src="public/images/our_jewelry.png">
-      <h2 class="sub_header_right">Our Jewlery</h2>
+      <h2 class="sub_header_right">Our Jewelry</h2>
       <p>We carry a very stylish selection of diamond rings, gemstone jewelry, Native American jewelry, bracelets, and even have a full selection of custom build one-of-a-kind jewelry to suit every kind... <a href="our_jewelry.php"> learn more</a></p>
     </div>
   </div>
