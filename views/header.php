@@ -2,6 +2,19 @@
 	<a href="index.php">Home</a>
 	<h1>Oro &#38; Jewelers</h1>						
 </div> 
+<div id="social">
+	<ul>
+	  <li>
+	   <p class="follow">Follow Us</p>
+	  </li>
+	  <li class="facebook">
+	    <a href="http://www.facebook.com/OroAndJewelers">Facebook</a>
+	  </li>
+	  <li class="twitter">
+	    <a href="http://twitter.com/#!/OroJewelers">Twitter</a>
+	  </li>
+	</ul>
+</div>
 <div id="main_nav">
 	<ul>
 		<li><a href="index.php">Home</a></li>

@@ -8,7 +8,8 @@
 					<li>Watches</li>
 					<li>Diamonds &#38; Gemstones</li>
 				</ul>
-        <div class="cta">
+				<img src="public/images/cash_gold.png" class="cash_logo" alt="Cash Gold">
+        <div class="cta_small">
           <a href="/contact.php" title="contact Oro &amp; Jewelers Today">Contact Us</a>
         </div>
     </div>

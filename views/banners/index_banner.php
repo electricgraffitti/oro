@@ -13,6 +13,7 @@
 							<li>Stem &#38; Crown Repairs</li>
 							<li>Wristband Repair &#38; Replacment</li>
 						</ul>
+						<img src="public/images/cash_gold.png" class="cash_logo" alt="Cash Gold">
           </div>
         </div>
       </a>
@@ -27,6 +28,7 @@
 							<li>Bracelet &#38; Necklace Repairs</li>
 							<li>Ring Sizing &#38; Resizing</li>
 						</ul>
+						<img src="public/images/cash_gold.png" class="cash_logo" alt="Cash Gold">
           </div>
         </div>
       </a>
@@ -41,6 +43,7 @@
 							<li>Custom Design Necklaces</li>
 							<li>Custom Modifications</li>
 						</ul>
+						<img src="public/images/cash_gold.png" class="cash_logo" alt="Cash Gold">
           </div>
         </div>
       </a>
@@ -50,8 +53,9 @@
           <div class="banner_content">
             <h2 class="banner_header our_jewelry">Our Jewelry</h2>
             <p>
-				      Oro &#38; Jewelers has every type of jewelry you can imagine.  We Sell all types of rings, bracelets, Necklaces, coins, indian jewelry and even one-of-a-kind custom jewelry in our store.  Stop by and see us today and let us help you pick out the perfect gift for the perfect occasion.  Take a look at some of our images below for some samples of the types of jewelry we have in our store.
+				      Oro &#38; Jewelers has every type of jewelry you can imagine.  We Sell all types of rings, bracelets, Necklaces, coins, indian jewelry and even one-of-a-kind custom jewelry in our store.  Stop by and see us today and let us help you pick out the perfect gift for the perfect occasion.
 				    </p>
+				    <img src="public/images/cash_gold.png" class="cash_logo" alt="Cash Gold">
           </div>
         </div>
       </a>
@@ -66,6 +70,7 @@
     					<li>Watches</li>
     					<li>Diamonds &#38; Gemstones</li>
     				</ul>
+    				<img src="public/images/cash_gold.png" class="cash_logo" alt="Cash Gold">
           </div>
         </div>
       </a>
