@@ -35,6 +35,10 @@ a:visited {
 .italic {
 	font-style: italic;
 }
+a.b_link {
+  color: #000000;
+  text-decoration: none;
+}
 #wrapper {
   background: url(../images/wrap_bg1.png) no-repeat scroll 0 0 #eee;
   margin:0 auto;
@@ -443,9 +447,15 @@ a:visited {
   color: #392520;
   margin-left: 5px;
 }
-.cash_logo {
+div.cash_logo {
   width: 286px;
   height: 63px;
+  background: url("../images/cash_gold.png");
+}
+a.cash_link {
+  width: 286px;
+  height: 63px;
+  text-indent: -9999em;
 }
 /****************************************************************************************************************************/
 /*********************************************************************************************************** FORMS **********/
