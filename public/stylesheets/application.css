@@ -591,7 +591,7 @@ a.cash_link {
   border-top:1px solid #FFFFFF;
 }
 #footer {
-	height:75px;
+	height:185px;
 	width:1016px;
 }
 .footer_nav {
@@ -644,6 +644,11 @@ a.cash_link {
 	color:#333;
 	margin-right:30px;
 	margin-top:30px;
+}
+.bbb {
+	width: 60px;
+	float: right;
+	margin: 20px 29px 0px 0px;
 }
 .clear {
 	clear: both;
